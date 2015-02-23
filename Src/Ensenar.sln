@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ensenar", "Ensenar\Ensenar.csproj", "{0A9CFDDE-8ABB-4849-9C0A-11EFA28A7190}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ensenar.Business", "Ensenar.Business\Ensenar.Business.csproj", "{088CF726-4F0F-479B-A894-4E2A2BA9E2AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,14 @@ Global
 		{0A9CFDDE-8ABB-4849-9C0A-11EFA28A7190}.Release|x86.ActiveCfg = Release|x86
 		{0A9CFDDE-8ABB-4849-9C0A-11EFA28A7190}.Release|x86.Build.0 = Release|x86
 		{0A9CFDDE-8ABB-4849-9C0A-11EFA28A7190}.Release|x86.Deploy.0 = Release|x86
+		{088CF726-4F0F-479B-A894-4E2A2BA9E2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088CF726-4F0F-479B-A894-4E2A2BA9E2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088CF726-4F0F-479B-A894-4E2A2BA9E2AE}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{088CF726-4F0F-479B-A894-4E2A2BA9E2AE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{088CF726-4F0F-479B-A894-4E2A2BA9E2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088CF726-4F0F-479B-A894-4E2A2BA9E2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{088CF726-4F0F-479B-A894-4E2A2BA9E2AE}.Release|ARM.ActiveCfg = Release|Any CPU
+		{088CF726-4F0F-479B-A894-4E2A2BA9E2AE}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
