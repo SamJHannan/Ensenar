@@ -1,0 +1,67 @@
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\App.g.i.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\App.g.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\AboutPage.g.i.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\AboutPage.g.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\EndSession.g.i.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\EndSession.g.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\MainPage.g.i.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\MainPage.g.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\ReviewAnswers.g.i.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\ReviewAnswers.g.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\StartNewSession.g.i.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\StartNewSession.g.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\Y10to11.g.i.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\Y10to11.g.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\Y12to13.g.i.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\Y12to13.g.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\Y7to9.g.i.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\Y7to9.g.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\XamlTypeInfo.g.cs
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\App.xaml
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\EndSession.xaml
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\ReviewAnswers.xaml
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\StartNewSession.xaml
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\Y10to11.xaml
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\Y12to13.xaml
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\Y7to9.xaml
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\App.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\EndSession.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\ReviewAnswers.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\StartNewSession.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\Y10to11.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\Y12to13.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\Y7to9.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\XamlSaveStateFile.xml
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\AboutPage.xaml
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\MainPage.xaml
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\AboutPage.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\MainPage.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\bin\Debug\App.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\bin\Debug\AboutPage.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\bin\Debug\EndSession.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\bin\Debug\MainPage.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\bin\Debug\ReviewAnswers.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\bin\Debug\StartNewSession.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\bin\Debug\Y10to11.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\bin\Debug\Y12to13.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\bin\Debug\Y7to9.xbf
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\bin\Debug\Ensenar Nino.xr.xml
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\bin\Debug\Ensenar Nino.exe
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\bin\Debug\Ensenar Nino.pdb
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\bin\Debug\resources.pri
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\bin\Debug\AppxManifest.xml
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\bin\Debug\Ensenar Nino.build.appxrecipe
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\Ensenar Nino.exe
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\Ensenar Nino.pdb
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\priconfig.xml
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\priconfig.xml.intermediate
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\layout.resfiles
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\layout.resfiles.intermediate
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\resources.resfiles
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\resources.resfiles.intermediate
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\pri.resfiles
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\pri.resfiles.intermediate
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\qualifiers.txt
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\qualifiers.txt.intermediate
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\voyo1\Documents\Visual Studio 2013\Projects\Ensenar Nino\Ensenar Nino\obj\Debug\ProjectArchitectures.txt
